@@ -1,10 +1,7 @@
 ---
-layout: single
-title: "Documentation de la formation RS6464"
+layout: default
+title: "Accueil"
 ---
-
-# Bienvenue dans la formation RS6464
-
 9. Créer guide studio virtuel complet :
    - Développez guide installation participants
    - Créez checklist pré-session détaillée
