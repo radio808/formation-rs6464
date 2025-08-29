@@ -1,3 +1,7 @@
+---
+layout: default
+title: Formation RS6464
+---
 9. Créer guide studio virtuel complet :
    - Développez guide installation participants
    - Créez checklist pré-session détaillée
